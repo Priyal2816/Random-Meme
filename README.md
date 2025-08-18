@@ -1,6 +1,6 @@
 # Random Gif Generator
 
-# Table of Contents
+## Table of Contents
 
 Overview
 
@@ -22,11 +22,11 @@ The "Random Gif Generator" is a web application that allows users to generate ra
 
 # Features
 
-# Random Gif Generation:
+## Random Gif Generation:
 
 Click the "Generate" button to fetch and display a random GIF.
 
-# Tag-Based Gif Generation:
+## Tag-Based Gif Generation:
 
 Enter a specific tag or keyword in the input field, and click "Generate" to fetch and display a GIF related to that tag.
 
@@ -38,11 +38,11 @@ Tailwind CSS
 
 # Usage
 
-# 1. Random Gif Generation:
+## 1. Random Gif Generation:
 
 Click the "Generate" button in the "A Random Gif" section to fetch and display a random GIF.
 
-# 2. Tag-Based Gif Generation:
+## 2. Tag-Based Gif Generation:
 
 Enter a specific tag or keyword in the input field provided in the "A Random {tag} Gif" section.
 Click the "Generate" button to fetch and display a GIF related to the entered tag.
