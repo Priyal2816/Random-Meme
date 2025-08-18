@@ -1,16 +1,52 @@
-# random-gifs
+Random Gif Generator
 
-## Overview
+Table of Contents
 
-A web application that fetches and displays random memes each time the user clicks the "Fetch new memes" button. Built with ReactJS and Appwrite, this app provides a fun way to enjoy memes and learn about user authentication and backend integration.
+Overview
+Features
+Preview
+Technologies
+Usage
+Generating a Random Gif
+Generating a Tag-Based Gif
 
-## Features
+Overview
 
-- **User Authentication**: Register and log in using Appwrite's user service.
-- **Random Meme Fetching**: Click the button to load a new meme each time.
-- **Responsive Design**: Optimized for both desktop and mobile devices.
+The "Random Gif Generator" is a web application that allows users to generate random GIFs or GIFs based on a specific tag or keyword. It uses the Giphy API to fetch GIFs and display them in a visually appealing manner.
 
-## Technologies Used
+Features
 
-- **Frontend**: ReactJS
-- **Hosting**: Vercel
+Random Gif Generation:
+
+Click the "Generate" button to fetch and display a random GIF.
+
+Tag-Based Gif Generation:
+
+Enter a specific tag or keyword in the input field, and click "Generate" to fetch and display a GIF related to that tag.
+
+Technologies
+
+React
+Axios
+Tailwind CSS
+
+Usage
+
+Random Gif Generation:
+
+Click the "Generate" button in the "A Random Gif" section to fetch and display a random GIF.
+
+Tag-Based Gif Generation:
+
+Enter a specific tag or keyword in the input field provided in the "A Random {tag} Gif" section.
+Click the "Generate" button to fetch and display a GIF related to the entered tag.
+
+Generating a Random Gif
+
+In the "A Random Gif" section, click the "Generate" button to fetch and display a random GIF.
+
+Generating a Tag-Based Gif
+
+In the "A Random {tag} Gif" section:
+Enter a specific tag or keyword in the input field.
+Click the "Generate" button to fetch and display a GIF related to the entered tag.
