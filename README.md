@@ -3,11 +3,17 @@
 # Table of Contents
 
 Overview
+
 Features
+
 Preview
+
 Technologies
+
 Usage
+
 Generating a Random Gif
+
 Generating a Tag-Based Gif
 
 # Overview
